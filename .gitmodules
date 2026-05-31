@@ -3,7 +3,7 @@
 	url = https://github.com/mateusz-kazimierczak/meal-DAGs.git
 [submodule "ec-meals-app"]
 	path = ec-meals-app
-	url = https://github.com/mateusz-kazimierczak/meal-DAGs.git
+	url = https://github.com/Mateusz-alicante/ec-meals-app
 [submodule "ec-meals-backend"]
 	path = ec-meals-backend
 	url = https://github.com/Mateusz-alicante/ec-meals-backend
